@@ -29,7 +29,7 @@ on:
         description: 'Quality (video: 144/360/480/720/1080 | audio: 128/192/320)'
         required: false
         type: string
-        default: '720'
+        default: '144'
       max_videos:
         description: '🔢 Max results'
         required: false
